@@ -62,7 +62,7 @@ body {
 #profile img {
   width: 11.2rem;
   border-radius: 50%;
-  border: 2px solid var(--border-color);
+  /* border: 2px solid var(--border-color); */
 }
 
 #profile p {
@@ -75,21 +75,28 @@ body {
 #switch {
   width: 6.4rem;
   position: relative;
-  margin: auto;
+  margin: 0.4rem auto;
+  /* cursor: pointer; */
 }
 
 #switch button {
   height: 3.2rem;
   width: 3.2rem;
-  background: #ffffff var(--bg-switch-url) no-repeat center;
+  /* cursor: pointer; */
+  background: #fff var(--bg-switch-url) no-repeat center;
   border: none;
   border-radius: 50%;
 
   position: absolute;
   top: 50%;
-  right: 0;
+  left: 0;
   z-index: 1;
   transform: translateY(-50%);
+}
+
+.light #switch button {
+  right: 0;
+  left: initial;
 }
 
 #switch span {
