@@ -38,17 +38,13 @@ html * {
   font-family: 'Inter', sans-serif;
 }
 
-
 body {
-  /* background-image: url(../assets/bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover; */
   background: var(--bg-url) no-repeat top center/cover;
 }
 
 #container {
-  width: 36rem;
+  width: 100%;
+  max-width: 58.8rem;
   margin: 5.6rem auto 0;
   padding: 0 2.4rem;
 }
@@ -62,7 +58,6 @@ body {
 #profile img {
   width: 11.2rem;
   border-radius: 50%;
-  /* border: 2px solid var(--border-color); */
 }
 
 #profile p {
@@ -76,13 +71,11 @@ body {
   width: 6.4rem;
   position: relative;
   margin: 0.4rem auto;
-  /* cursor: pointer; */
 }
 
 #switch button {
   height: 3.2rem;
   width: 3.2rem;
-  /* cursor: pointer; */
   background: #fff var(--bg-switch-url) no-repeat center;
   border: none;
   border-radius: 50%;
@@ -92,11 +85,16 @@ body {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+  animation: slide-back .2s;
+}
+
+#switch button:hover {
+  outline: .8rem solid var(--highlight-color);
+  cursor: pointer;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-in .2s forwards;
 }
 
 #switch span {
@@ -138,8 +136,6 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-  /* text-transform: capitalize; */
-
   transition: background .2s;
 }
 
@@ -152,7 +148,6 @@ ul li a:hover {
 #social-links {
   display: flex;
   justify-content: center;
-  /* gap: 1.6rem; */
 
   padding: 2.4rem 0;
 }
