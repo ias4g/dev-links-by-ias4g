@@ -24,6 +24,8 @@
 ## 💻 Projeto
 O devLinks é uma ótima ferramenta para desenvolvedores que querem compartilhar suas informações de forma mais profissional. É uma forma fácil de mostrar seu trabalho e se conectar com outros profissionais da área. Um desenvolvedor pode usar o devLinks para compartilhar seu portfólio, projetos, redes sociais e contatos. Qualquer pessoa pode usar o devLinks para compartilhar seus links de interesse, como sites, blogs, vídeos e cursos.
 
+Para ver o projeto hospedado [clique aqui](https://dev-links-by-ias4g.netlify.app/)🔗.
+
 ## 📝 Layout
 Você pode visualizar o layout do projeto [neste link](https://www.figma.com/file/YxESHmbJjZpaNDcRqBvMJF/DevLinks-%E2%80%A2-Projeto-Discover-(Community)-(Copy)?type=design&node-id=10%3A620&mode=design&t=V29yuydlOTM8DjrD-1). è necessário ter uma conta no [Figma](https://www.figma.com) para acessá-lo.
 
