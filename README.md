@@ -4,6 +4,8 @@
 
   # DevLinks
 
+  [Tecnologias](#🚀-tecnologias) | [Projeto](#💻-projeto) | [Layout](#🏷️-layout) | [Licença](#©️-licença)
+
   DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
   
   Esse projeto é desenvolvido com HTML, CSS e JavaScript no [Discover](https://www.rocketseat.com.br/discover?utm_source=figma&utm_medium=organic&utm_campaign=lead&utm_term=discover&utm_content=description_figma-lp_discover)🔗, o programa 100% gratuito da [Rocketseat](https://www.rocketseat.com.br)🔗 para aprender programação do zero e na prática.
