@@ -22,3 +22,5 @@ Você pode visualizar o layout do projeto [neste link](https://www.figma.com/fil
 
 ## ©️ Licença
 Este projeto está sob a licença [MIT](./LICENSE).
+
+<div align="center">Feito com 💖 by Izael Silva (ias4g).</div>
