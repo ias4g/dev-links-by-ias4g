@@ -3,10 +3,10 @@
 <div align="center">
 
   # DevLinks
-  <a href="#-tecnologias">Tecnologias</a> |
+  <a href="#tecnologias">Tecnologias</a> |
   <a href="">Projeto</a> |
   <a href="">Layout</a> |
-  <a href="#-licença">Licença</a> | 
+  <a href="#licença">Licença</a> | 
 
 
   <!-- [Tecnologias](#-tecnologias) | [Projeto](#-projeto) | [Layout](#-layout) | [Licença](#-licença) -->
